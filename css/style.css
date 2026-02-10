@@ -62,6 +62,10 @@ footer {
   border-radius: 0;
 }
 
+.card-matsuzaka {
+  color: aqua;
+}
+
 #page-top {
   width: 40px;
   height: 40px;
